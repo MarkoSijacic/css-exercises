@@ -1,0 +1,19 @@
+.regularClass {
+    background-color:rgb(245, 203, 255);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#oneID {
+    color: rgb(95, 171, 243);
+    font-size: 36px;
+}
+
+.coolerClass {
+    font-size: 24px;
+}
+
+#anotherID {
+    background-color: rgb(122, 196, 122);
+    font-size: 24px;
+    font-weight: bold;
+}
